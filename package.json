@@ -1,0 +1,16 @@
+{
+  "name": "koa-boilerplate",
+  "version": "1.0.0",
+  "description": "boiler plate koa with postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arun pariyar",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.14.2",
+    "koa-bodyparser": "^4.4.0",
+    "koa-static": "^5.0.0"
+  }
+}
